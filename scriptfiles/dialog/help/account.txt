@@ -1,0 +1,10 @@
+{FFFF00}/stats - {FFFFFF}просмотр статистики
+{FFFF00}/buylevel - {FFFFFF}купить следующий уровень
+{FFFF00}/upgrades - {FFFFFF}просмотреть возможные улучшения
+{FFFF00}/resetupgrades - {FFFFFF}Обнуление всех апгрейдов
+{FFFF00}/setage - установить возраст
+{FFFF00}/setsex - установить пол
+{FFFF00}/setpass - {FFFFFF}сменить ваш пароль
+{FFFF00}/origin - {FFFFFF}сменить город проживания(ЛС - ЛВ)
+{FFFF00}/delwarn - {FFFFFF}купить снятие предупреждения
+

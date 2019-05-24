@@ -1,0 +1,7 @@
+{FFFF00}/open - {FFFFFF}открыть/закрыть бизнес
+{FFFF00}/sellbiz - {FFFFFF}продать бизнес
+{FFFF00}/buybiz - {FFFFFF}купить бизнес
+{FFFF00}/bizfee - {FFFFFF}установить цену за вход и использование услуг
+{FFFF00}/bizname - {FFFFFF}установить название бизнеса
+{FFFF00}/extortion - {FFFFFF}назначить зама по бизнесу
+{FFFF00}/bizwithdraw - {FFFFFF}снять деньги с бизнеса
